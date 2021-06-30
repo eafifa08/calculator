@@ -1,0 +1,30 @@
+.calculator{
+    padding: 100px 100px
+}
+.input_field{
+    width: 120px;
+    font-size: 20px;
+    margin: 20px 0px;
+}
+.history{
+    width: 300px;
+    margin: 10px 0px;
+}
+.digit {
+    font-size: 22px;
+    width: 40px;
+    height: 40px;
+    background-color: lightcyan;
+    color: midnightblue;
+}
+
+.operation {
+    font-size: 22px;
+    width: 40px;
+    height: 40px;
+    background-color: whitesmoke;
+}
+
+.empty {
+    visibility: hidden;
+}
